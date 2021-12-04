@@ -5,6 +5,9 @@ const english = {
     report: 'Report',
     home: 'Home',
     gallery: 'Gallery',
+    uni: 'Units in inventory',
+    buttonSpanish: 'Spanish',
+    buttonEnglish: 'English'
   },
 };
 
